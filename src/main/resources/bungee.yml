@@ -1,0 +1,4 @@
+name: RamuneEssential
+version: '${project.version}'
+main: tokyo.ramune.ramuneessential.RamuneEssential
+author: Ramune
